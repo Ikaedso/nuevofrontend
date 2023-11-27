@@ -1,0 +1,17 @@
+00:00:01.090056 VirtualBox GUI VM Selector Window 6.1.38 r153438 win.amd64 (Sep  1 2022 14:20:23) release log
+00:00:01.090060 Log opened 2023-10-13T14:08:38.622934400Z
+00:00:01.090061 Build Type: release
+00:00:01.090064 OS Product: Windows 10
+00:00:01.090066 OS Release: 10.0.19045
+00:00:01.090066 OS Service Pack: 
+00:00:01.107960 DMI Product Name: HP ProBook 445R G6
+00:00:01.113103 DMI Product Version:  
+00:00:01.113123 Firmware type: UEFI
+00:00:01.113601 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.113627 Host RAM: 14269MB (13.9GB) total, 9454MB (9.2GB) available
+00:00:01.113633 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.113635 Process ID: 15784
+00:00:01.113636 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.113876 Qt version: 5.6.2
+00:00:01.170759 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.886894 GUI: UIMediumEnumerator: Medium-enumeration finished!

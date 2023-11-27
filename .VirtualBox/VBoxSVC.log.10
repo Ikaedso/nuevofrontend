@@ -1,0 +1,97 @@
+00:00:00.004312 main     VirtualBox COM Server 6.1.38 r153438 win.amd64 (Sep  1 2022 14:20:23) release log
+00:00:00.004315 main     Log opened 2022-09-15T22:22:54.707370100Z
+00:00:00.004316 main     Build Type: release
+00:00:00.004320 main     OS Product: Windows 10
+00:00:00.004321 main     OS Release: 10.0.19042
+00:00:00.004322 main     OS Service Pack: 
+00:00:00.030485 main     DMI Product Name: HP ProBook 445R G6
+00:00:00.046356 main     DMI Product Version:  
+00:00:00.046371 main     Firmware type: UEFI
+00:00:00.046788 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.046811 main     Host RAM: 13514MB (13.1GB) total, 10467MB (10.2GB) available
+00:00:00.046816 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.046817 main     Process ID: 4684
+00:00:00.046818 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.136997          VirtualBox: object creation starts
+00:00:00.138125          Home directory: 'C:\Users\Sena\.VirtualBox'
+00:00:00.138674          Installed Drivers:
+00:00:00.143127            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.38.3438)
+00:00:00.144310            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.38.3438)
+00:00:00.144926            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 6.1.38.3438)
+00:00:00.145965            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.38.3438)
+00:00:00.161822          Loading settings file "C:\Users\Sena\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.167605          usbLibGetDevices: Starting USB device enumeration
+00:00:00.168053          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0610#6&641a335&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:00:00.168529          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1175cff6&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+00:00:00.170286          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.171459          USB: Unknown USB device detected (idVendor: 0x0408, idProduct: 0x5373)
+00:00:00.172665          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb00b)
+00:00:00.341350          HostDnsMonitor: initializing
+00:00:00.350354          HostDnsMonitor: updating information
+00:00:00.350788          HostDnsMonitor: old information
+00:00:00.350790            no server entries
+00:00:00.350791            no domain set
+00:00:00.350792            no search string entries
+00:00:00.350793          HostDnsMonitor: new information
+00:00:00.350793            no server entries
+00:00:00.350794            domain: FormacionSena.RED
+00:00:00.350794            no search string entries
+00:00:00.529843          VD: VDInit finished with VINF_SUCCESS
+00:00:00.543759          Loading settings file "C:\Users\Sena\VirtualBox VMs\Mondongo\Mondongo.vbox" with version "1.15-windows"
+00:00:00.555480          Loading settings file "C:\Users\Sena\VirtualBox VMs\SUAVE\SUAVE.vbox" with version "1.17-windows"
+00:00:00.564415          Loading settings file "C:\Users\Sena\VirtualBox VMs\win 11\win 11.vbox" with version "1.15-windows"
+00:00:00.573522          Loading settings file "C:\Users\Sena\VirtualBox VMs\Isaac\Isaac.vbox" with version "1.15-windows"
+00:00:00.581782          Loading settings file "C:\Users\Sena\VirtualBox VMs\jair\jair.vbox" with version "1.15-windows"
+00:00:00.589958          Loading settings file "C:\Users\Sena\VirtualBox VMs\SCH\SCH.vbox" with version "1.15-windows"
+00:00:00.598397          Loading settings file "C:\Users\Sena\VirtualBox VMs\Windows_\Windows_.vbox" with version "1.15-windows"
+00:00:00.605904          Loading settings file "C:\Users\Sena\VirtualBox VMs\JJJ\JJJ.vbox" with version "1.15-windows"
+00:00:00.613590          Loading settings file "C:\Users\Sena\VirtualBox VMs\ooo\ooo.vbox" with version "1.16-windows"
+00:00:00.665537          OCI: Local config file 'C:\Users\Sena\.VirtualBox\oci_config' does not exist
+00:00:00.665753          OCI: Original config file 'C:\Users\Sena\.oci\config' does not exist
+00:00:00.665756          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.666096          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.666171          VirtualBox: object created
+00:00:08.777365 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:08.778244 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0610#6&641a335&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:00:08.778521 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1175cff6&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+00:00:08.778887 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:16.499507 dns-monitor HostDnsMonitor: updating information
+00:00:16.499546 dns-monitor HostDnsMonitor: unchanged
+00:00:18.480224          Launched VM: 74298288 pid: 13220 (0x33a4) frontend: GUI/Qt name: ooo
+00:00:24.106426          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:24.436934          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:40.801310 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:40.801712 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0610#6&641a335&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 1
+00:00:40.801843 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1175cff6&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+00:00:40.802030 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:02:16.495304 dns-monitor HostDnsMonitor: updating information
+00:02:16.495342 dns-monitor HostDnsMonitor: unchanged
+00:03:31.560103 dns-monitor HostDnsMonitor: updating information
+00:03:31.560164 dns-monitor HostDnsMonitor: old information
+00:03:31.560172 dns-monitor   no server entries
+00:03:31.560179 dns-monitor   domain: FormacionSena.RED
+00:03:31.560185 dns-monitor   no search string entries
+00:03:31.560192 dns-monitor HostDnsMonitor: new information
+00:03:31.560197 dns-monitor   server 1: 172.29.13.151
+00:03:31.560203 dns-monitor   server 2: 172.29.13.152
+00:03:31.560209 dns-monitor   domain: FormacionSena.RED
+00:03:31.560215 dns-monitor   no search string entries
+00:03:49.039837 dns-monitor HostDnsMonitor: updating information
+00:03:49.039875 dns-monitor HostDnsMonitor: unchanged
+00:07:47.731425          Saving settings file "C:\Users\Sena\VirtualBox VMs\ooo\ooo.vbox" with version "1.16-windows"
+00:07:50.348803          Saving settings file "C:\Users\Sena\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:50.356452          Saving settings file "C:\Users\Sena\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:55.861370 main     VirtualBox: object deletion starts
+00:07:55.861511 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\Mondongo\Mondongo.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.862230 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\SUAVE\SUAVE.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.862837 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\win 11\win 11.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.863406 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\Isaac\Isaac.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.864114 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\jair\jair.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.865127 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\SCH\SCH.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.866133 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\Windows_\Windows_.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.866663 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\JJJ\JJJ.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.867282 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Sena\VirtualBox VMs\ooo\ooo.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:55.869684 main     HostDnsMonitor: shutting down ...
+00:07:55.869790 main     HostDnsMonitor: shut down
+00:07:55.874145 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:07:55.875119 main     VirtualBox: object deleted
